@@ -1,0 +1,29 @@
+{
+  "name": "heya-form",
+  "version": "0.1.0",
+  "description": "Form: form-related utilities imported from Dojo.",
+  "main": "main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "heya-has": ">=0.1"
+  },
+  "devDependencies": {
+    "heya-unit": ">=0.1"
+  },
+  "scripts": {
+    "test": "node tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/heya/form.git"
+  },
+  "keywords": [
+    "form",
+    "DOM",
+    "query string"
+  ],
+  "author": "Eugene Lazutkin <eugene.lazutkin@gmail.com> (http://lazutkin.com/)",
+  "license": "BSD"
+}
