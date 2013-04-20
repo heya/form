@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "dependencies": {
-    "heya-has": ">=0.1"
+    "heya-dom": ">=0.1"
   },
   "devDependencies": {
     "heya-unit": ">=0.1"
