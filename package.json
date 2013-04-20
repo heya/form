@@ -13,7 +13,7 @@
     "heya-unit": ">=0.1"
   },
   "scripts": {
-    "test": "node tests/tests.js"
+    "test": "node tests/node_tests.js"
   },
   "repository": {
     "type": "git",
