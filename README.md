@@ -1,4 +1,4 @@
-# Form [![Build Status](https://travis-ci.org/heya/form.png?branch=master)](https://travis-ci.org/heya/form)
+# Form [![Build Status](https://travis-ci.org/heya/form.png?branch=master)](https://travis-ci.org/heya/form) [![Greenkeeper badge](https://badges.greenkeeper.io/heya/form.svg)](https://greenkeeper.io/)
 
 Form: form-related utilities imported from Dojo.
 
